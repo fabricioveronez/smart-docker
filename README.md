@@ -1,5 +1,9 @@
 # SmartDocker
 
+<p align="center">
+  <img src="assets/smartdocker-logo-v1.png" alt="Logo do SmartDocker: container com uma lupa ao lado do nome do projeto" width="640">
+</p>
+
 Agente de IA que analisa Dockerfiles de projetos de software, identificando problemas de segurança, performance e boas práticas. O agente investiga autonomamente a estrutura do projeto, identifica a linguagem e o framework utilizados e gera um relatório completo com os problemas encontrados e sugestões de correção.
 
 > 🎥 Projeto prático do vídeo **[LangChain para DevOps](https://www.youtube.com/watch?v=B4atyr1BpSw)**.
