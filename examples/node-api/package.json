@@ -1,0 +1,12 @@
+{
+  "name": "node-api-exemplo",
+  "version": "1.0.0",
+  "description": "API de exemplo com Dockerfile cheio de problemas, para testar o SmartDocker",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
